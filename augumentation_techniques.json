@@ -1,23 +1,20 @@
 {
   "augmentation_techniques": [
-    "al_withoutda",
-    "blur",
-    "brightness",
-    "colorjitter",
-    "contrast",
-    "elastic_transform",
-    "histogram_equalization",
-    "random_affine",
-    "random_autocontrast",
-    "random_equalize",
-    "random_invert",
-    "random_posterize",
-    "random_sharpeness",
-    "random_solarize",
-    "random_transform",
-    "rotation",
-    "saturation",
-    "shear",
-    "single_channel"
+    "random_solarize_sharpness",
+    "random_rotation_shear_saturation",
+    "random_autocontrast_affine_equalize",
+    "random_rotation_shear_saturation",
+    "brightness30contrast50rotation10",
+    "brightness50contrast50",
+    "brightness30contrast50",
+    "brightness70contrast70",
+    "brightness50contrast30",
+    "brightness50contrast90",
+    "rotation10saturation50",
+    "random_sharpeness_invert",
+    "random_posterize_transform_contrast",
+    "blur_shear",
+    "al_withoutda"
+    
   ]
 }

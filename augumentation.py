@@ -156,5 +156,123 @@ def get_augmentation(augmentation_type):
         transforms.ToTensor(),  
         transforms.Normalize((0.1307,), (0.3081,))  
     ])
+    elif augmentation_type == 'brightness50contrast50':
+        brightness_factor = 0.5
+        contrast_factor = 0.5
+        return transforms.Compose([
+            transforms.ColorJitter(brightness=brightness_factor,contrast=contrast_factor),
+            transforms.Grayscale(num_output_channels=3),
+            transforms.ToTensor(),                  
+            transforms.Normalize((0.1307,), (0.3081,))
+        ])
+    elif augmentation_type == 'brightness30contrast50':
+        brightness_factor = 0.3
+        contrast_factor = 0.5
+        return transforms.Compose([
+            transforms.ColorJitter(brightness=brightness_factor,contrast=contrast_factor),
+            transforms.Grayscale(num_output_channels=3),
+            transforms.ToTensor(),                  
+            transforms.Normalize((0.1307,), (0.3081,))
+        ])
+    elif augmentation_type == 'brightness70contrast70':
+        brightness_factor = 0.7
+        contrast_factor = 0.7
+        return transforms.Compose([
+            transforms.ColorJitter(brightness=brightness_factor,contrast=contrast_factor),
+            transforms.Grayscale(num_output_channels=3),
+            transforms.ToTensor(),                  
+            transforms.Normalize((0.1307,), (0.3081,))
+        ])
+    elif augmentation_type == 'brightness50contrast30':
+        brightness_factor = 0.5
+        contrast_factor = 0.3
+        return transforms.Compose([
+            transforms.ColorJitter(brightness=brightness_factor,contrast=contrast_factor),
+            transforms.Grayscale(num_output_channels=3),
+            transforms.ToTensor(),                  
+            transforms.Normalize((0.1307,), (0.3081,))
+        ])
+    elif augmentation_type == 'rotation10saturation50':
+        angle=10
+        saturation_factor = 0.5
+        return transforms.Compose([
+            transforms.RandomRotation(degrees=angle),
+            transforms.ColorJitter(saturation=saturation_factor),
+            transforms.Grayscale(num_output_channels=3),
+            transforms.ToTensor(),                  
+            transforms.Normalize((0.1307,), (0.3081,))
+        ])
+    elif augmentation_type == 'random_sharpeness_invert':
+        return transforms.Compose([
+        transforms.RandomAdjustSharpness(sharpness_factor=4),
+        transforms.RandomInvert(p=0.2),
+        transforms.Grayscale(num_output_channels=3),  
+        transforms.ToTensor(),  
+        transforms.Normalize((0.1307,), (0.3081,))  
+    ])
+    elif augmentation_type == 'blur_shear':
+        shear = 10
+        return transforms.Compose([
+            transforms.RandomAffine(degrees=0, shear=shear),
+            transforms.GaussianBlur(kernel_size=3),
+            transforms.Grayscale(num_output_channels=3),
+            transforms.ToTensor(),                  
+            transforms.Normalize((0.1307,), (0.3081,))
+        ])
+    elif augmentation_type == 'random_solarize_sharpness':
+        return transforms.Compose([
+        transforms.RandomSolarize(threshold=150, p=0.3),
+        transforms.RandomAdjustSharpness(sharpness_factor=3),
+        transforms.Grayscale(num_output_channels=3),  
+        transforms.ToTensor(),  
+        transforms.Normalize((0.1307,), (0.3081,))  
+    ])
+    elif augmentation_type == 'brightness30contrast50rotation10':
+        brightness_factor = 0.3
+        contrast_factor = 0.5
+        angle=10
+        return transforms.Compose([
+            transforms.ColorJitter(brightness=brightness_factor,contrast=contrast_factor),
+            transforms.RandomRotation(degrees=angle),
+            transforms.Grayscale(num_output_channels=3),
+            transforms.ToTensor(),                  
+            transforms.Normalize((0.1307,), (0.3081,))
+        ])
+    elif augmentation_type == 'random_autocontrast_affine_equalize':
+        return transforms.Compose([
+        transforms.RandomAutocontrast(p=0.4),
+        transforms.RandomAffine(degrees=0, translate=(0.2, 0.2)),
+        transforms.RandomEqualize(p=0.2),
+        transforms.Grayscale(num_output_channels=3),  
+        transforms.ToTensor(),  
+        transforms.Normalize((0.1307,), (0.3081,))  
+    ])
+    elif augmentation_type == 'random_rotation_shear_saturation':
+        return transforms.Compose([
+          transforms.RandomRotation(degrees=15),  
+          transforms.RandomAffine(degrees=0, shear=10),  
+          transforms.ColorJitter(saturation=0.5), 
+          transforms.Grayscale(num_output_channels=3),
+          transforms.ToTensor(),                  
+          transforms.Normalize((0.1307,), (0.3081,))
+        ])
+    elif augmentation_type == 'random_posterize_transform_contrast':
+        return transforms.Compose([
+        transforms.ColorJitter(contrast=0.7),
+        transforms.RandomPerspective(distortion_scale=0.2, p=0.5),
+        transforms.RandomPosterize(bits=2, p=0.5),
+        transforms.Grayscale(num_output_channels=3),  
+        transforms.ToTensor(),  
+        transforms.Normalize((0.1307,), (0.3081,))  
+    ])
+    elif augmentation_type == 'brightness50contrast90':
+        brightness_factor = 0.5
+        contrast_factor = 0.9
+        return transforms.Compose([
+            transforms.ColorJitter(brightness=brightness_factor,contrast=contrast_factor),
+            transforms.Grayscale(num_output_channels=3),
+            transforms.ToTensor(),                  
+            transforms.Normalize((0.1307,), (0.3081,))
+        ])
     else:
         raise ValueError("Invalid augmentation type")

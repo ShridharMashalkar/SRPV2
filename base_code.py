@@ -14,9 +14,10 @@ from PIL import Image
 import json
 import sys
 
-python_file_name = sys.argv[1]
+python_file_name = sys.argv[1].split("$")
 from augumentation import get_augmentation
 augmentation_transform = get_augmentation(python_file_name)
+print(augmentation_transform)
 
 import torch
 import torch.nn as nn

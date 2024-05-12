@@ -22,10 +22,13 @@ print(techniques)
 
 for name in techniques:
     print('Current file is '+str(name))
+    sendVal = "$".join(name)
+    folderNameVisualization = "_".join(name)
     try: 
-        subprocess.run(["python", Base_Code_FileName,name])
-        subprocess.run(["python", Visualization_FileName,name])
-    except: 
+        subprocess.run(["python", Base_Code_FileName,sendVal])
+        subprocess.run(["python", Visualization_FileName,folderNameVisualization])
+    except Exception as e:
+        print("Error:", e)
         pass
     print('******************************************************************************')
     print('\n')

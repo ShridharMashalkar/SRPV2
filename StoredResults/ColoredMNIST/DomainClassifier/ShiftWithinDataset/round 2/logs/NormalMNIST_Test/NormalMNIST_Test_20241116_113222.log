@@ -1,0 +1,120 @@
+2024-11-16 11:32:26,243 - INFO - Epoch [1/10], Loss: 1.4007, Accuracy: 48.80%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:32:28,631 - INFO - Epoch [2/10], Loss: 1.3865, Accuracy: 51.36%, Source: 1200, Target: 1200, Unlabeled: 7602
+2024-11-16 11:32:31,062 - INFO - Epoch [3/10], Loss: 1.3865, Accuracy: 50.67%, Source: 1300, Target: 1300, Unlabeled: 7408
+2024-11-16 11:32:33,804 - INFO - Epoch [4/10], Loss: 1.3845, Accuracy: 51.77%, Source: 1400, Target: 1400, Unlabeled: 7218
+2024-11-16 11:32:36,634 - INFO - Epoch [5/10], Loss: 1.3834, Accuracy: 52.39%, Source: 1500, Target: 1500, Unlabeled: 7028
+2024-11-16 11:32:39,480 - INFO - Epoch [6/10], Loss: 1.3850, Accuracy: 51.57%, Source: 1600, Target: 1600, Unlabeled: 6839
+2024-11-16 11:32:42,345 - INFO - Epoch [7/10], Loss: 1.3830, Accuracy: 51.72%, Source: 1700, Target: 1700, Unlabeled: 6654
+2024-11-16 11:32:45,162 - INFO - Epoch [8/10], Loss: 1.3833, Accuracy: 52.32%, Source: 1800, Target: 1800, Unlabeled: 6479
+2024-11-16 11:32:48,038 - INFO - Epoch [9/10], Loss: 1.3850, Accuracy: 52.19%, Source: 1900, Target: 1900, Unlabeled: 6298
+2024-11-16 11:32:50,858 - INFO - Epoch [10/10], Loss: 1.3821, Accuracy: 52.42%, Source: 2000, Target: 2000, Unlabeled: 6125
+2024-11-16 11:32:50,862 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:32:52,719 - INFO - Evaluation Test Accuracy: 50.78%, Source: 2000, Target: 2000, Unlabeled: 2125
+2024-11-16 11:32:56,554 - INFO - Epoch [1/10], Loss: 1.3944, Accuracy: 50.25%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:32:59,315 - INFO - Epoch [2/10], Loss: 1.3855, Accuracy: 50.00%, Source: 1200, Target: 1200, Unlabeled: 7601
+2024-11-16 11:33:02,144 - INFO - Epoch [3/10], Loss: 1.3874, Accuracy: 50.00%, Source: 1300, Target: 1300, Unlabeled: 7406
+2024-11-16 11:33:05,091 - INFO - Epoch [4/10], Loss: 1.3857, Accuracy: 51.04%, Source: 1400, Target: 1400, Unlabeled: 7213
+2024-11-16 11:33:08,101 - INFO - Epoch [5/10], Loss: 1.3868, Accuracy: 50.07%, Source: 1500, Target: 1500, Unlabeled: 7021
+2024-11-16 11:33:11,499 - INFO - Epoch [6/10], Loss: 1.3859, Accuracy: 50.23%, Source: 1600, Target: 1600, Unlabeled: 6834
+2024-11-16 11:33:14,618 - INFO - Epoch [7/10], Loss: 1.3850, Accuracy: 51.50%, Source: 1700, Target: 1700, Unlabeled: 6650
+2024-11-16 11:33:17,633 - INFO - Epoch [8/10], Loss: 1.3856, Accuracy: 51.38%, Source: 1800, Target: 1800, Unlabeled: 6468
+2024-11-16 11:33:20,736 - INFO - Epoch [9/10], Loss: 1.3863, Accuracy: 50.53%, Source: 1900, Target: 1900, Unlabeled: 6286
+2024-11-16 11:33:23,754 - INFO - Epoch [10/10], Loss: 1.3859, Accuracy: 50.84%, Source: 2000, Target: 2000, Unlabeled: 6111
+2024-11-16 11:33:23,758 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:33:25,807 - INFO - Evaluation Test Accuracy: 49.50%, Source: 2000, Target: 2000, Unlabeled: 2111
+2024-11-16 11:33:29,785 - INFO - Epoch [1/10], Loss: 1.3932, Accuracy: 51.00%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:33:32,840 - INFO - Epoch [2/10], Loss: 1.3869, Accuracy: 50.50%, Source: 1200, Target: 1200, Unlabeled: 7602
+2024-11-16 11:33:35,736 - INFO - Epoch [3/10], Loss: 1.3870, Accuracy: 50.50%, Source: 1300, Target: 1300, Unlabeled: 7407
+2024-11-16 11:33:38,678 - INFO - Epoch [4/10], Loss: 1.3872, Accuracy: 49.12%, Source: 1400, Target: 1400, Unlabeled: 7217
+2024-11-16 11:33:41,699 - INFO - Epoch [5/10], Loss: 1.3875, Accuracy: 49.64%, Source: 1500, Target: 1500, Unlabeled: 7022
+2024-11-16 11:33:44,523 - INFO - Epoch [6/10], Loss: 1.3863, Accuracy: 50.33%, Source: 1600, Target: 1600, Unlabeled: 6831
+2024-11-16 11:33:47,507 - INFO - Epoch [7/10], Loss: 1.3864, Accuracy: 48.69%, Source: 1700, Target: 1700, Unlabeled: 6637
+2024-11-16 11:33:50,547 - INFO - Epoch [8/10], Loss: 1.3868, Accuracy: 49.50%, Source: 1800, Target: 1800, Unlabeled: 6463
+2024-11-16 11:33:53,560 - INFO - Epoch [9/10], Loss: 1.3861, Accuracy: 51.19%, Source: 1900, Target: 1900, Unlabeled: 6279
+2024-11-16 11:33:56,631 - INFO - Epoch [10/10], Loss: 1.3865, Accuracy: 49.79%, Source: 2000, Target: 2000, Unlabeled: 6101
+2024-11-16 11:33:56,635 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:33:58,749 - INFO - Evaluation Test Accuracy: 49.28%, Source: 2000, Target: 2000, Unlabeled: 2101
+2024-11-16 11:34:02,685 - INFO - Epoch [1/10], Loss: 1.3939, Accuracy: 51.75%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:34:05,675 - INFO - Epoch [2/10], Loss: 1.3895, Accuracy: 48.23%, Source: 1200, Target: 1200, Unlabeled: 7604
+2024-11-16 11:34:08,727 - INFO - Epoch [3/10], Loss: 1.3870, Accuracy: 49.17%, Source: 1300, Target: 1300, Unlabeled: 7408
+2024-11-16 11:34:11,769 - INFO - Epoch [4/10], Loss: 1.3862, Accuracy: 49.42%, Source: 1400, Target: 1400, Unlabeled: 7218
+2024-11-16 11:34:14,862 - INFO - Epoch [5/10], Loss: 1.3856, Accuracy: 52.11%, Source: 1500, Target: 1500, Unlabeled: 7032
+2024-11-16 11:34:17,973 - INFO - Epoch [6/10], Loss: 1.3869, Accuracy: 49.83%, Source: 1600, Target: 1600, Unlabeled: 6844
+2024-11-16 11:34:21,102 - INFO - Epoch [7/10], Loss: 1.3870, Accuracy: 49.19%, Source: 1700, Target: 1700, Unlabeled: 6655
+2024-11-16 11:34:24,101 - INFO - Epoch [8/10], Loss: 1.3857, Accuracy: 50.21%, Source: 1800, Target: 1800, Unlabeled: 6472
+2024-11-16 11:34:27,141 - INFO - Epoch [9/10], Loss: 1.3862, Accuracy: 49.42%, Source: 1900, Target: 1900, Unlabeled: 6294
+2024-11-16 11:34:30,196 - INFO - Epoch [10/10], Loss: 1.3856, Accuracy: 51.53%, Source: 2000, Target: 2000, Unlabeled: 6118
+2024-11-16 11:34:30,199 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:34:32,321 - INFO - Evaluation Test Accuracy: 50.88%, Source: 2000, Target: 2000, Unlabeled: 2118
+2024-11-16 11:34:36,456 - INFO - Epoch [1/10], Loss: 1.3946, Accuracy: 50.50%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:34:39,415 - INFO - Epoch [2/10], Loss: 1.3887, Accuracy: 49.50%, Source: 1200, Target: 1200, Unlabeled: 7603
+2024-11-16 11:34:42,403 - INFO - Epoch [3/10], Loss: 1.3863, Accuracy: 50.08%, Source: 1300, Target: 1300, Unlabeled: 7406
+2024-11-16 11:34:45,482 - INFO - Epoch [4/10], Loss: 1.3859, Accuracy: 49.69%, Source: 1400, Target: 1400, Unlabeled: 7209
+2024-11-16 11:34:48,588 - INFO - Epoch [5/10], Loss: 1.3883, Accuracy: 49.29%, Source: 1500, Target: 1500, Unlabeled: 7021
+2024-11-16 11:34:51,610 - INFO - Epoch [6/10], Loss: 1.3869, Accuracy: 48.13%, Source: 1600, Target: 1600, Unlabeled: 6838
+2024-11-16 11:34:54,702 - INFO - Epoch [7/10], Loss: 1.3873, Accuracy: 49.25%, Source: 1700, Target: 1700, Unlabeled: 6648
+2024-11-16 11:34:57,818 - INFO - Epoch [8/10], Loss: 1.3864, Accuracy: 50.68%, Source: 1800, Target: 1800, Unlabeled: 6466
+2024-11-16 11:35:00,862 - INFO - Epoch [9/10], Loss: 1.3864, Accuracy: 48.00%, Source: 1900, Target: 1900, Unlabeled: 6283
+2024-11-16 11:35:03,907 - INFO - Epoch [10/10], Loss: 1.3864, Accuracy: 50.26%, Source: 2000, Target: 2000, Unlabeled: 6104
+2024-11-16 11:35:03,912 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:35:06,067 - INFO - Evaluation Test Accuracy: 50.62%, Source: 2000, Target: 2000, Unlabeled: 2104
+2024-11-16 11:35:09,939 - INFO - Epoch [1/10], Loss: 1.3992, Accuracy: 49.95%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:35:12,882 - INFO - Epoch [2/10], Loss: 1.3871, Accuracy: 49.09%, Source: 1200, Target: 1200, Unlabeled: 7605
+2024-11-16 11:35:15,891 - INFO - Epoch [3/10], Loss: 1.3862, Accuracy: 49.67%, Source: 1300, Target: 1300, Unlabeled: 7411
+2024-11-16 11:35:18,992 - INFO - Epoch [4/10], Loss: 1.3861, Accuracy: 50.12%, Source: 1400, Target: 1400, Unlabeled: 7219
+2024-11-16 11:35:22,111 - INFO - Epoch [5/10], Loss: 1.3853, Accuracy: 50.68%, Source: 1500, Target: 1500, Unlabeled: 7028
+2024-11-16 11:35:25,290 - INFO - Epoch [6/10], Loss: 1.3880, Accuracy: 51.07%, Source: 1600, Target: 1600, Unlabeled: 6838
+2024-11-16 11:35:28,358 - INFO - Epoch [7/10], Loss: 1.3873, Accuracy: 50.66%, Source: 1700, Target: 1700, Unlabeled: 6655
+2024-11-16 11:35:31,299 - INFO - Epoch [8/10], Loss: 1.3859, Accuracy: 50.56%, Source: 1800, Target: 1800, Unlabeled: 6477
+2024-11-16 11:35:34,300 - INFO - Epoch [9/10], Loss: 1.3862, Accuracy: 50.50%, Source: 1900, Target: 1900, Unlabeled: 6295
+2024-11-16 11:35:37,290 - INFO - Epoch [10/10], Loss: 1.3859, Accuracy: 50.84%, Source: 2000, Target: 2000, Unlabeled: 6116
+2024-11-16 11:35:37,294 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:35:39,408 - INFO - Evaluation Test Accuracy: 50.92%, Source: 2000, Target: 2000, Unlabeled: 2116
+2024-11-16 11:35:43,647 - INFO - Epoch [1/10], Loss: 1.3946, Accuracy: 50.25%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:35:46,561 - INFO - Epoch [2/10], Loss: 1.3873, Accuracy: 50.41%, Source: 1200, Target: 1200, Unlabeled: 7602
+2024-11-16 11:35:49,568 - INFO - Epoch [3/10], Loss: 1.3883, Accuracy: 50.17%, Source: 1300, Target: 1300, Unlabeled: 7405
+2024-11-16 11:35:52,457 - INFO - Epoch [4/10], Loss: 1.3869, Accuracy: 49.77%, Source: 1400, Target: 1400, Unlabeled: 7214
+2024-11-16 11:35:55,441 - INFO - Epoch [5/10], Loss: 1.3863, Accuracy: 50.04%, Source: 1500, Target: 1500, Unlabeled: 7026
+2024-11-16 11:35:58,500 - INFO - Epoch [6/10], Loss: 1.3864, Accuracy: 50.97%, Source: 1600, Target: 1600, Unlabeled: 6844
+2024-11-16 11:36:01,574 - INFO - Epoch [7/10], Loss: 1.3864, Accuracy: 50.22%, Source: 1700, Target: 1700, Unlabeled: 6654
+2024-11-16 11:36:04,651 - INFO - Epoch [8/10], Loss: 1.3863, Accuracy: 50.24%, Source: 1800, Target: 1800, Unlabeled: 6472
+2024-11-16 11:36:07,753 - INFO - Epoch [9/10], Loss: 1.3862, Accuracy: 50.22%, Source: 1900, Target: 1900, Unlabeled: 6292
+2024-11-16 11:36:10,823 - INFO - Epoch [10/10], Loss: 1.3864, Accuracy: 50.11%, Source: 2000, Target: 2000, Unlabeled: 6112
+2024-11-16 11:36:10,829 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:36:12,971 - INFO - Evaluation Test Accuracy: 48.90%, Source: 2000, Target: 2000, Unlabeled: 2112
+2024-11-16 11:36:16,962 - INFO - Epoch [1/10], Loss: 1.3938, Accuracy: 51.05%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:36:20,094 - INFO - Epoch [2/10], Loss: 1.3875, Accuracy: 48.32%, Source: 1200, Target: 1200, Unlabeled: 7600
+2024-11-16 11:36:23,095 - INFO - Epoch [3/10], Loss: 1.3855, Accuracy: 51.62%, Source: 1300, Target: 1300, Unlabeled: 7402
+2024-11-16 11:36:26,148 - INFO - Epoch [4/10], Loss: 1.3870, Accuracy: 50.35%, Source: 1400, Target: 1400, Unlabeled: 7208
+2024-11-16 11:36:29,179 - INFO - Epoch [5/10], Loss: 1.3867, Accuracy: 50.29%, Source: 1500, Target: 1500, Unlabeled: 7015
+2024-11-16 11:36:32,325 - INFO - Epoch [6/10], Loss: 1.3868, Accuracy: 50.33%, Source: 1600, Target: 1600, Unlabeled: 6823
+2024-11-16 11:36:35,454 - INFO - Epoch [7/10], Loss: 1.3863, Accuracy: 50.44%, Source: 1700, Target: 1700, Unlabeled: 6639
+2024-11-16 11:36:38,401 - INFO - Epoch [8/10], Loss: 1.3860, Accuracy: 51.03%, Source: 1800, Target: 1800, Unlabeled: 6459
+2024-11-16 11:36:41,513 - INFO - Epoch [9/10], Loss: 1.3864, Accuracy: 50.97%, Source: 1900, Target: 1900, Unlabeled: 6272
+2024-11-16 11:36:44,653 - INFO - Epoch [10/10], Loss: 1.3867, Accuracy: 50.71%, Source: 2000, Target: 2000, Unlabeled: 6102
+2024-11-16 11:36:44,658 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:36:46,776 - INFO - Evaluation Test Accuracy: 49.62%, Source: 2000, Target: 2000, Unlabeled: 2102
+2024-11-16 11:36:50,889 - INFO - Epoch [1/10], Loss: 1.3957, Accuracy: 52.35%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:36:53,791 - INFO - Epoch [2/10], Loss: 1.3853, Accuracy: 51.45%, Source: 1200, Target: 1200, Unlabeled: 7602
+2024-11-16 11:36:56,825 - INFO - Epoch [3/10], Loss: 1.3862, Accuracy: 50.58%, Source: 1300, Target: 1300, Unlabeled: 7408
+2024-11-16 11:36:59,768 - INFO - Epoch [4/10], Loss: 1.3866, Accuracy: 51.04%, Source: 1400, Target: 1400, Unlabeled: 7215
+2024-11-16 11:37:02,921 - INFO - Epoch [5/10], Loss: 1.3869, Accuracy: 50.75%, Source: 1500, Target: 1500, Unlabeled: 7028
+2024-11-16 11:37:06,044 - INFO - Epoch [6/10], Loss: 1.3860, Accuracy: 50.87%, Source: 1600, Target: 1600, Unlabeled: 6838
+2024-11-16 11:37:09,019 - INFO - Epoch [7/10], Loss: 1.3850, Accuracy: 50.88%, Source: 1700, Target: 1700, Unlabeled: 6654
+2024-11-16 11:37:12,065 - INFO - Epoch [8/10], Loss: 1.3855, Accuracy: 51.76%, Source: 1800, Target: 1800, Unlabeled: 6473
+2024-11-16 11:37:15,100 - INFO - Epoch [9/10], Loss: 1.3868, Accuracy: 49.97%, Source: 1900, Target: 1900, Unlabeled: 6287
+2024-11-16 11:37:18,146 - INFO - Epoch [10/10], Loss: 1.3862, Accuracy: 50.97%, Source: 2000, Target: 2000, Unlabeled: 6111
+2024-11-16 11:37:18,151 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:37:20,295 - INFO - Evaluation Test Accuracy: 49.28%, Source: 2000, Target: 2000, Unlabeled: 2111
+2024-11-16 11:37:24,225 - INFO - Epoch [1/10], Loss: 1.3969, Accuracy: 49.60%, Source: 1100, Target: 1100, Unlabeled: 7800
+2024-11-16 11:37:27,223 - INFO - Epoch [2/10], Loss: 1.3869, Accuracy: 48.91%, Source: 1200, Target: 1200, Unlabeled: 7601
+2024-11-16 11:37:30,155 - INFO - Epoch [3/10], Loss: 1.3862, Accuracy: 50.58%, Source: 1300, Target: 1300, Unlabeled: 7404
+2024-11-16 11:37:33,029 - INFO - Epoch [4/10], Loss: 1.3858, Accuracy: 51.54%, Source: 1400, Target: 1400, Unlabeled: 7210
+2024-11-16 11:37:36,123 - INFO - Epoch [5/10], Loss: 1.3878, Accuracy: 49.39%, Source: 1500, Target: 1500, Unlabeled: 7018
+2024-11-16 11:37:39,083 - INFO - Epoch [6/10], Loss: 1.3857, Accuracy: 52.27%, Source: 1600, Target: 1600, Unlabeled: 6833
+2024-11-16 11:37:42,108 - INFO - Epoch [7/10], Loss: 1.3862, Accuracy: 50.72%, Source: 1700, Target: 1700, Unlabeled: 6643
+2024-11-16 11:37:45,120 - INFO - Epoch [8/10], Loss: 1.3861, Accuracy: 51.62%, Source: 1800, Target: 1800, Unlabeled: 6460
+2024-11-16 11:37:48,160 - INFO - Epoch [9/10], Loss: 1.3859, Accuracy: 51.14%, Source: 1900, Target: 1900, Unlabeled: 6285
+2024-11-16 11:37:51,214 - INFO - Epoch [10/10], Loss: 1.3857, Accuracy: 50.84%, Source: 2000, Target: 2000, Unlabeled: 6107
+2024-11-16 11:37:51,219 - INFO - Model saved as models/NormalMNIST_Test_20241116_113222.pth
+2024-11-16 11:37:53,315 - INFO - Evaluation Test Accuracy: 50.30%, Source: 2000, Target: 2000, Unlabeled: 2107

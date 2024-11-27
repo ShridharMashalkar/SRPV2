@@ -1,0 +1,460 @@
+Run Number is 0
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.4080, Accuracy: 48.00%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3866, Accuracy: 50.09%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3864, Accuracy: 49.62%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3874, Accuracy: 50.46%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3864, Accuracy: 51.54%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3879, Accuracy: 48.87%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3863, Accuracy: 49.88%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3865, Accuracy: 49.65%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3866, Accuracy: 50.56%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3863, Accuracy: 49.79%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.35%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 1
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3987, Accuracy: 49.50%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3856, Accuracy: 50.82%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3864, Accuracy: 51.08%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3863, Accuracy: 50.77%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3866, Accuracy: 50.07%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3851, Accuracy: 51.40%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3860, Accuracy: 51.47%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3864, Accuracy: 49.65%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3859, Accuracy: 51.36%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3851, Accuracy: 51.42%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.60%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 2
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3957, Accuracy: 50.45%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3869, Accuracy: 49.68%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3870, Accuracy: 50.17%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3858, Accuracy: 51.00%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3894, Accuracy: 49.46%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3863, Accuracy: 50.23%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3864, Accuracy: 49.97%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3865, Accuracy: 49.21%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3861, Accuracy: 50.53%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3861, Accuracy: 51.29%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.12%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 3
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3983, Accuracy: 50.15%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3881, Accuracy: 49.64%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3859, Accuracy: 50.92%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3865, Accuracy: 49.96%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3861, Accuracy: 51.07%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3865, Accuracy: 51.43%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3865, Accuracy: 49.94%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3864, Accuracy: 50.35%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3868, Accuracy: 50.31%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3866, Accuracy: 49.87%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.85%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 4
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3913, Accuracy: 51.60%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3871, Accuracy: 50.86%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3861, Accuracy: 50.67%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3853, Accuracy: 50.85%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3878, Accuracy: 48.71%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3861, Accuracy: 50.87%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3851, Accuracy: 51.00%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3863, Accuracy: 50.79%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3865, Accuracy: 51.33%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3867, Accuracy: 50.18%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 50.30%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 5
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3951, Accuracy: 50.25%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3866, Accuracy: 50.36%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3863, Accuracy: 51.50%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3874, Accuracy: 49.85%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3861, Accuracy: 50.86%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3859, Accuracy: 50.67%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3859, Accuracy: 50.91%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3865, Accuracy: 50.32%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3868, Accuracy: 50.03%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3873, Accuracy: 51.11%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 50.22%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 6
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3968, Accuracy: 50.55%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3871, Accuracy: 51.27%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3874, Accuracy: 50.67%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3869, Accuracy: 50.73%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3855, Accuracy: 51.54%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3874, Accuracy: 50.17%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3871, Accuracy: 49.50%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3857, Accuracy: 51.26%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3867, Accuracy: 50.39%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3855, Accuracy: 51.74%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 50.00%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 7
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3958, Accuracy: 49.65%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3865, Accuracy: 49.86%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3864, Accuracy: 50.04%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3871, Accuracy: 50.08%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3868, Accuracy: 50.29%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3868, Accuracy: 50.37%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3863, Accuracy: 51.69%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3861, Accuracy: 51.12%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3854, Accuracy: 51.06%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3855, Accuracy: 51.11%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.35%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 8
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.4053, Accuracy: 49.75%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3875, Accuracy: 48.73%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3879, Accuracy: 50.21%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3858, Accuracy: 50.73%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3878, Accuracy: 49.54%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3866, Accuracy: 50.17%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3860, Accuracy: 50.53%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3861, Accuracy: 50.56%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3867, Accuracy: 51.08%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3857, Accuracy: 51.68%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.78%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 9
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3953, Accuracy: 48.85%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3865, Accuracy: 51.23%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3861, Accuracy: 51.54%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3872, Accuracy: 50.31%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3863, Accuracy: 50.68%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3883, Accuracy: 48.47%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3866, Accuracy: 49.56%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3865, Accuracy: 49.56%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3866, Accuracy: 49.94%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3866, Accuracy: 50.34%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 51.23%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 10
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3939, Accuracy: 50.95%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3895, Accuracy: 48.91%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3865, Accuracy: 50.33%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3865, Accuracy: 50.15%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3861, Accuracy: 50.86%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3870, Accuracy: 49.50%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3865, Accuracy: 49.09%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3861, Accuracy: 51.24%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3862, Accuracy: 50.44%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3873, Accuracy: 49.97%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.33%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 11
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3965, Accuracy: 50.05%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3878, Accuracy: 50.55%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3865, Accuracy: 49.38%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3868, Accuracy: 50.23%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3868, Accuracy: 50.18%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3857, Accuracy: 50.40%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3862, Accuracy: 50.09%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3865, Accuracy: 49.44%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3857, Accuracy: 50.50%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3862, Accuracy: 50.58%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.85%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 12
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3968, Accuracy: 50.25%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3888, Accuracy: 48.73%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3848, Accuracy: 51.96%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3906, Accuracy: 48.85%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3874, Accuracy: 49.89%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3860, Accuracy: 49.80%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3859, Accuracy: 50.22%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3861, Accuracy: 50.65%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3869, Accuracy: 50.03%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3863, Accuracy: 51.21%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 48.75%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 13
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.4001, Accuracy: 51.05%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3858, Accuracy: 51.09%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3882, Accuracy: 48.75%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3868, Accuracy: 50.15%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3861, Accuracy: 50.79%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3867, Accuracy: 49.23%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3861, Accuracy: 50.84%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3866, Accuracy: 49.71%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3869, Accuracy: 51.00%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3865, Accuracy: 49.79%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 50.32%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 14
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3954, Accuracy: 48.75%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3866, Accuracy: 50.45%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3852, Accuracy: 51.04%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3881, Accuracy: 49.88%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3870, Accuracy: 50.04%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3864, Accuracy: 51.13%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3867, Accuracy: 50.09%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3864, Accuracy: 49.74%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3863, Accuracy: 50.61%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3866, Accuracy: 49.68%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.10%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 15
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.4038, Accuracy: 50.10%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3867, Accuracy: 49.68%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3866, Accuracy: 49.58%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3874, Accuracy: 49.04%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3863, Accuracy: 49.75%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3859, Accuracy: 52.07%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3867, Accuracy: 50.00%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3857, Accuracy: 51.12%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3861, Accuracy: 50.97%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3856, Accuracy: 51.71%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.23%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 16
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.4006, Accuracy: 47.85%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3851, Accuracy: 51.86%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3850, Accuracy: 52.38%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3864, Accuracy: 50.92%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3869, Accuracy: 50.14%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3868, Accuracy: 50.30%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3863, Accuracy: 49.94%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3860, Accuracy: 50.76%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3868, Accuracy: 50.86%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3860, Accuracy: 51.53%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 50.30%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 17
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3936, Accuracy: 51.35%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3876, Accuracy: 48.86%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3865, Accuracy: 51.42%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3875, Accuracy: 50.00%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3872, Accuracy: 48.79%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3864, Accuracy: 50.33%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3862, Accuracy: 50.50%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3862, Accuracy: 49.65%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3849, Accuracy: 50.06%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3875, Accuracy: 51.74%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 49.78%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 18
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3968, Accuracy: 51.75%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3867, Accuracy: 51.27%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3864, Accuracy: 51.21%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3877, Accuracy: 49.31%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3861, Accuracy: 50.46%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3877, Accuracy: 49.97%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3868, Accuracy: 49.03%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3869, Accuracy: 49.47%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3856, Accuracy: 51.28%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3865, Accuracy: 50.76%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 51.50%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+Run Number is 19
+Source Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Target Indices - Frequency: {0: 100, 1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100, 7: 100, 8: 100, 9: 100}, Length: 1000
+Master Indices - Frequency: {0: 5723, 1: 6542, 2: 5758, 3: 5931, 4: 5642, 5: 5221, 6: 5718, 7: 6065, 8: 5651, 9: 5749}, Length: 58000
+Intersection Check - Source & Target: set()
+Intersection Check - Source & Master: set()
+Intersection Check - Target & Master: set()
+Epoch [1/10], Loss: 1.3991, Accuracy: 50.65%, Source: 1100, Target: 1100, Unlabeled: 57800
+Epoch [2/10], Loss: 1.3880, Accuracy: 50.86%, Source: 1200, Target: 1200, Unlabeled: 57600
+Epoch [3/10], Loss: 1.3860, Accuracy: 50.88%, Source: 1300, Target: 1300, Unlabeled: 57400
+Epoch [4/10], Loss: 1.3867, Accuracy: 51.62%, Source: 1400, Target: 1400, Unlabeled: 57200
+Epoch [5/10], Loss: 1.3875, Accuracy: 48.00%, Source: 1500, Target: 1500, Unlabeled: 57000
+Epoch [6/10], Loss: 1.3864, Accuracy: 48.27%, Source: 1600, Target: 1600, Unlabeled: 56800
+Epoch [7/10], Loss: 1.3864, Accuracy: 49.31%, Source: 1700, Target: 1700, Unlabeled: 56600
+Epoch [8/10], Loss: 1.3862, Accuracy: 50.47%, Source: 1800, Target: 1800, Unlabeled: 56400
+Epoch [9/10], Loss: 1.3864, Accuracy: 49.42%, Source: 1900, Target: 1900, Unlabeled: 56200
+Epoch [10/10], Loss: 1.3865, Accuracy: 50.55%, Source: 2000, Target: 2000, Unlabeled: 56000
+Model saved as models/NormalMNIST_Train_20241126_132713.pth
+Evaluation Test Accuracy: 50.50%, Source: 2000, Target: 2000, Unlabeled: 52000
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
